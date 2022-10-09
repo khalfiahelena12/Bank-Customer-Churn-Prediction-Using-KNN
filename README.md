@@ -1,10 +1,3 @@
 # Bank-Customer-Churn-Prediction-Using-KNN
-• Developed algorithms to predict bank customer churn probability based on labeled data using Python.
-
-• Preprocessed dataset by data cleansing, categorical feature transformation and standardization, etc.
-
-• Trained supervised machine learning models including Logistic Regression, Random Forest, KNN and XGBoost.
-
-• Optimized hyper-parameters with k-fold cross-validation and applied regularization to overcome overfitting.
-
-• Evaluated model performance of classification and analyzed feature importance to identify top factors that influenced the results.
+Every bank wants to hold there customers for sustaining their business so the ABC Multinational bank. The data contains customer data of account holders at ABC Multinational Bank and the aim of the data will be predicting the Customer Churn.
+In this problem we need to see if we can predict if we will have a Churn or not. The data date has 1000 values and 12 columns.

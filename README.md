@@ -6,7 +6,7 @@ I use a dataset from Bank Customer Churn | Kaggle. This dataset is about custome
 ## Problem Statement
 You are working for the ABC Multinational bank. It has a customer base set across the country. Due to heavy marketing and promotion schemes by other companies, your company is losing customers i.e. the customers are churning. Whether a customer will churn or not will depend on data.
 
-##Goal
+## Goal
 Predicting the Customer Churn of ABC Multinational bank
 
 
